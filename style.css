@@ -99,9 +99,9 @@ nav a:hover {
     }
 
     .logo {
-        position: static;
-        display: block;
-        margin: 0 auto 10px auto;
+        display:inine-block;
+        margin:0;
+        float:left;
     }
 
     nav a {
@@ -117,3 +117,4 @@ nav a:hover {
         width: 100%;
     }
 }
+
